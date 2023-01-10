@@ -34,7 +34,9 @@ class Block {
     }
 
     Update() {
+        if(mouseClicked()) {
 
+        }
     }
  
     Draw() {
